@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537066948 source:d:\codeblocks\vector\main.cpp
+	<iostream>
+	"vector.h"
+
+1537068417 d:\codeblocks\vector\vector.h
+
+1537068417 source:d:\codeblocks\vector\vector.cpp
+	"vector.h"
+	<math.h>
+
