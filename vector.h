@@ -1,5 +1,5 @@
-#ifndef VECTOR_H_INCLUDED
-#define VECTOR_H_INCLUDED
+#ifndef __VECTOR_H__
+#define __VECTOR_H__
 
 class Vector{
     double a,b,c;
